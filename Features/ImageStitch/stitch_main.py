@@ -73,4 +73,4 @@ if status == 0:
 
 
 else:
-	print("failed: error ({})".format(status))from imutils import paths
+	print("failed: error ({})".format(status))
